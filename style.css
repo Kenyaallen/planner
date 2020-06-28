@@ -1,0 +1,16 @@
+
+.type-area {
+    text-align: center;
+    background-color: rgb(195, 233, 108);
+    height: 110px;
+    border-top: 150px;
+    
+}
+
+.time-save-button {
+    font-size: 15px;
+    transition: out;
+    color: black;
+    background-color: orchid;
+    
+}
